@@ -1,5 +1,7 @@
 require 'formula'
 
+# stolen from https://gist.github.com/odakahirokazu/2698406
+
 # Documentation: https://github.com/mxcl/homebrew/wiki/Formula-Cookbook
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
 
