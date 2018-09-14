@@ -7,7 +7,7 @@ require 'formula'
 
 class Ccfits < Formula
   homepage 'http://heasarc.gsfc.nasa.gov/fitsio/CCfits/'
-  url 'http://heasarc.gsfc.nasa.gov/fitsio/CCfits/CCfits-2.4.tar.gz'
+  url 'http://heasarc.gsfc.nasa.gov/fitsio/CCfits/CCfits-2.5.tar.gz'
   #md5 'dd9a11d964590dd5f3fd5a3491b2c1ce'
 
   depends_on 'cfitsio'
